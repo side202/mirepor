@@ -1,6 +1,2 @@
-<<<<<<< HEAD
-super espada
-=======
-espada
->>>>>>> conflictivo
+suer espada
 escudo
